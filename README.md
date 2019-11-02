@@ -6,16 +6,16 @@
 
 ## Important Shortcuts
 
-* `⌘+F5` To toggle VoiceOver
-* `VO` => `^ + ⌥`: Used in a bunch of other shortcuts
-* `VO + A`: Read the current page from top-to-bottom
-* `VO + S / W / P`: Read the current Sentence / Word / Paragraph
-* `VO + ← / →`: Move VO focus
-* `VO + ↓ / ↑`: Enter / Exit item (i.e. form field, etc., to allow interaction)
-* `VO + U`: Enable rotor
+* <kbd>⌘</kbd>+F5</kbd> To toggle VoiceOver
+* <kbd>VO</kbd> => <kbd>^</kbd> + <kbd>⌥</kbd>: Used in a bunch of other shortcuts
+* <kbd>VO</kbd> + <kbd>A</kbd>: Read the current page from top-to-bottom
+* <kbd>VO</kbd> + <kbd>S</kbd> / <kbd>W</kbd> / <kbd>P</kbd>: Read the current Sentence / Word / Paragraph
+* <kbd>VO</kbd> + <kbd>←</kbd> / <kbd>→</kbd>: Move VO focus
+* <kbd>VO</kbd> + <kbd>↓</kbd> / <kbd>↑</kbd>: Enter / Exit item (i.e. form field, etc., to allow interaction)
+* <kbd>VO</kbd> + <kbd>U</kbd>: Enable rotor
 
 ## Resources
 
 * ["Using VoiceOver to Evaluate Web Accessibility" \[WebAIM\]](https://webaim.org/articles/voiceover/)
 * [VoiceOver Commands and Gestures \[Apple\]](https://www.apple.com/voiceover/info/guide/_1131.html)
-* `VO+⌘+F8`: Built-in VoiceOver tutorial.
+* <kbd>VO</kbd>+<kbd>⌘</kbd>+<kbd>F8</kbd>: Built-in VoiceOver tutorial.
