@@ -19,3 +19,8 @@
 * ["Using VoiceOver to Evaluate Web Accessibility" \[WebAIM\]](https://webaim.org/articles/voiceover/)
 * [VoiceOver Commands and Gestures \[Apple\]](https://www.apple.com/voiceover/info/guide/_1131.html)
 * <kbd>VO</kbd>+<kbd>⌘</kbd>+<kbd>F8</kbd>: Built-in VoiceOver tutorial.
+
+### Extra Credit
+
+* [Learn VO for iOS](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios) 
+* [Udacity web accessibility](https://www.udacity.com/course/web-accessibility--ud891) 
