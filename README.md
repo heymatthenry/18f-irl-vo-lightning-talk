@@ -6,7 +6,7 @@
 
 ## Important Shortcuts
 
-* <kbd>⌘</kbd>+<kbd>F5</kbd> To toggle VoiceOver
+* <kbd>⌘</kbd> + <kbd>F5</kbd> To toggle VoiceOver
 * <kbd>VO</kbd> => <kbd>^</kbd> + <kbd>⌥</kbd>: Used in a bunch of other shortcuts
 * <kbd>VO</kbd> + <kbd>A</kbd>: Read the current page from top-to-bottom
 * <kbd>VO</kbd> + <kbd>S</kbd> / <kbd>W</kbd> / <kbd>P</kbd>: Read the current Sentence / Word / Paragraph
