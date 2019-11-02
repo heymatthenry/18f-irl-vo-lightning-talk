@@ -6,13 +6,15 @@
 
 ## Important Shortcuts
 
-* <kbd>⌘</kbd> + <kbd>F5</kbd> To toggle VoiceOver
-* <kbd>VO</kbd> => <kbd>^</kbd> + <kbd>⌥</kbd>: Used in a bunch of other shortcuts
-* <kbd>VO</kbd> + <kbd>A</kbd>: Read the current page from top-to-bottom
-* <kbd>VO</kbd> + <kbd>S</kbd> / <kbd>W</kbd> / <kbd>P</kbd>: Read the current Sentence / Word / Paragraph
-* <kbd>VO</kbd> + <kbd>←</kbd> / <kbd>→</kbd>: Move VO focus
-* <kbd>VO</kbd> + <kbd>↓</kbd> / <kbd>↑</kbd>: Enter / Exit item (i.e. form field, etc., to allow interaction)
-* <kbd>VO</kbd> + <kbd>U</kbd>: Enable rotor
+| Keys                                                       | Function                                                             |
+| ---------------------------------------------------------- | -------------------------------------------------------------------- |
+| <kbd>⌘</kbd> + <kbd>F5</kbd>                               | To toggle VoiceOver                                                  |
+| <kbd>^</kbd> + <kbd>⌥</kbd>                                | Combo known as, <kbd>VO</kbd> key used in a bunch of other shortcuts |
+| <kbd>VO</kbd> + <kbd>A</kbd>                               | Read the current page from top-to-bottom                             |
+| <kbd>VO</kbd> + <kbd>S</kbd> / <kbd>W</kbd> / <kbd>P</kbd> | Read the current Sentence / Word / Paragraph                         |
+| <kbd>VO</kbd> + <kbd>←</kbd> / <kbd>→</kbd>                | Move VO focus                                                        |
+| <kbd>VO</kbd> + <kbd>↓</kbd> / <kbd>↑</kbd>                | Enter / Exit item (i.e. form field, etc., to allow interaction)      |
+| <kbd>VO</kbd> + <kbd>U</kbd>                               | Enable rotor                                                         |
 
 ## Resources
 
