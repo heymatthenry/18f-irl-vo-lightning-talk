@@ -15,6 +15,8 @@
 | <kbd>VO</kbd> + <kbd>←</kbd> / <kbd>→</kbd>                | Move VO focus                                                       |
 | <kbd>VO</kbd> + <kbd>↓</kbd> / <kbd>↑</kbd>                | Enter / Exit item (i.e. a button, etc., to allow reading the label) |
 | <kbd>VO</kbd> + <kbd>U</kbd>                               | Enable rotor                                                        |
+| <kbd>VO</kbd> + <kbd>⌘</kbd> + <kbd>H</kbd>                | Next Heading                                                        |
+| <kbd>VO</kbd> + <kbd>⌘</kbd> + <kbd>L</kbd>                | Next Link                                                        |
 
 ## Resources
 
